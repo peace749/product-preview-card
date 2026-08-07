@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/peace749/product-preview-card.git
-- Live Site URL: Add your live site URL here
+- Live Site URL: https://peace749.github.io/product-preview-card/
 
 ## My process
 
