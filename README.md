@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Add your Frontend Mentor solution URL here
+- Solution URL: https://github.com/peace749/product-preview-card.git
 - Live Site URL: Add your live site URL here
 
 ## My process
